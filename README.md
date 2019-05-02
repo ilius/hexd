@@ -18,7 +18,7 @@ hexd.WriteTo(w io.Writer, b []byte) (n int, err error)
 To start using `hexd`, install Go and run go get:
 
 ```
-$ go get -u github.com/tidwall/hexd
+$ go get -u github.com/tidwall/hexd/cmd/hexd
 ```
 
 This will retrieve the library.
